@@ -1,0 +1,1 @@
+(function () {window.headerBannerData = {"showBanner": true, "html": "There are no weather alerts at this time."}})();
